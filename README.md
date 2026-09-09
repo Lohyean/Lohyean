@@ -1,4 +1,5 @@
 ## Hi there 👋
+가천대학교 인공지능학과 202633987 이승준
 
 <!--
 **Lohyean/Lohyean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
